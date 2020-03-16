@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">memoLite</string>
+    <string name="action_settings">Settings</string>
+    <string name="onClick">btnClicked</string>
+    <string name="deleteContact">Hapus Data ?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="catatan">Catatan</string>
+    <string name="judul">Judul</string>
+</resources>

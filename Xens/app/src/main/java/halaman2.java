@@ -1,0 +1,2 @@
+public class halaman2 {
+}
