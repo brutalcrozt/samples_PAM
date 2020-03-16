@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DayNightLanguage</string>
+    <string name="nightmode" translatable="false">DayNightLanguage</string>
+    <string name="welcome" translatable="false">Wellcome to My App</string>
+</resources>
